@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+
+.right-side-button {
+  float: right;
+}
+
+.main-content {
+  margin-top: 15px;
+}
+
+menu {
+  padding-inline-start: 0px !important;
+}
